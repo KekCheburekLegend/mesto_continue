@@ -1,1 +1,1 @@
-# [Ссылка](https://github.com/KekCheburekLegend/mesto_continue/deployments/github-pages)
+# [Ссылка](https://kekchebureklegend.github.io/mesto_continue/)
